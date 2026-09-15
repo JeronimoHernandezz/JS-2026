@@ -1,0 +1,27 @@
+ej0 - script src = ".."
+    console.log ("hola mundo")
+
+
+--------------------------------
+
+ej0.1 - // script 
+    console.log("hola mundo")
+         /script>
+
+--------------------------------
+
+ej1.1 - script numero (p) i (/p)
+    utilizando defer
+
+--------------------------------
+
+ej1.2   scripts utilizando async
+    p -> escriba 1-100
+    2 -> escriba 900-1000
+
+---------------------
+1- commit 
+    de 5 scripts anteriores 
+ 
+Ademas de un documento en word donde se vea el uso del depurado del VSC
+    (puntos de ruptura, botones, watch, variables) --> de un script.js personal
