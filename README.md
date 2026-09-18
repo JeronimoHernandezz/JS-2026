@@ -1,2 +1,2 @@
-# prueba-2025-05
+# JS-2026
 Repositorio de prueba
